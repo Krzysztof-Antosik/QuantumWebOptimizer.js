@@ -1,4 +1,4 @@
-# QuantumWebOptimizer
+# QuantumWebOptimizer.js
 
 _A groundbreaking, indispensable JavaScript function designed to revolutionize every web development project._
 
